@@ -1,4 +1,4 @@
-# 🚀 Team Task Manager - Production Ready Full-Stack Application
+# 🚀 Enterprise Project Collaboration Platform- Production Ready Full-Stack Application
 
 ![React](https://img.shields.io/badge/React-18-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green)
@@ -6,11 +6,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-purple)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📋 Live Demo
 
-**Frontend:** [https://team-task-manager.vercel.app](https://team-task-manager.vercel.app)
-
-> ⚠️ **Note:** Backend is on free tier - first request may take 10-15 seconds to wake up.
 
 ## ✨ Features
 
